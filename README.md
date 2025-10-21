@@ -60,5 +60,5 @@ Website specific transparency need to be achieved with the [Zen Internet addon](
 
 <br>
 
-For any support, feel free to contact [me personally](https://www.sameerasw.com), post on [r/zen_browser](https://www.reddit.com/r/zen_browser/), in [discord](https://discord.com/channels/1088172780480114748/1335963848087306333) tagging me or in [telegram in my community](https://t.me/tidwib) but preferably in [Github as an issue, feature request or a discussion](https://github.com/sameerasw/my-internet/issues). :3
+For any support, feel free to contact [sameerasw's website](https://www.sameerasw.com), post on [r/zen_browser](https://www.reddit.com/r/zen_browser/), in [discord](https://discord.com/channels/1088172780480114748/1335963848087306333) tagging him or in [telegram in his community](https://t.me/tidwib) but preferably in [Github as an issue, feature request or a discussion](https://github.com/sameerasw/my-internet/issues). :3
 
